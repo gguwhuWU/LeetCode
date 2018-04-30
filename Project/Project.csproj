@@ -60,7 +60,10 @@
     <Compile Include="Easy\Subdomain Visit Count.cs" />
     <Compile Include="Easy\Two Sum.cs" />
     <Compile Include="Easy\Unique Morse Code Words.cs" />
+    <Compile Include="Medium\Counting Bits.cs" />
     <Compile Include="Medium\IValid Parenthesis String.cs" />
+    <Compile Include="Medium\Product of Array Except Self.cs" />
+    <Compile Include="Medium\Queue Reconstruction by Height.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Medium\Valid Parenthesis String.cs" />
